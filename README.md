@@ -109,7 +109,7 @@ The app provides a simple UI to enter customer attributes and predict churn prob
 
 1. **Install dependencies**
 
-```bash
+---
 pip install -r requirements.txt
 Run the app
 
@@ -156,15 +156,13 @@ Streamlit Documentation
 Steven Macko IBM Blog
 
 👨‍💻 Author
-Your Name
-LinkedIn • Portfolio • Email
+Pranideep Meka
+
 
 📜 License
 MIT License
 
-sql
-Copy
-Edit
+
 MIT License
 
 Copyright (c) 2025 Pranideep Meka
@@ -183,4 +181,4 @@ See the full MIT license for details.
 
 ✅ Ready for deployment
 
-
+---
